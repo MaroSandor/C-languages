@@ -1,0 +1,15 @@
+H:\Workspace\C-languages\ZH\Sztringek\bin\Debug\net9.0\Sztringek.exe
+H:\Workspace\C-languages\ZH\Sztringek\bin\Debug\net9.0\Sztringek.deps.json
+H:\Workspace\C-languages\ZH\Sztringek\bin\Debug\net9.0\Sztringek.runtimeconfig.json
+H:\Workspace\C-languages\ZH\Sztringek\bin\Debug\net9.0\Sztringek.dll
+H:\Workspace\C-languages\ZH\Sztringek\bin\Debug\net9.0\Sztringek.pdb
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.AssemblyInfoInputs.cache
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.AssemblyInfo.cs
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.csproj.CoreCompileInputs.cache
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.sourcelink.json
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.dll
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\refint\Sztringek.dll
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.pdb
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\Sztringek.genruntimeconfig.cache
+H:\Workspace\C-languages\ZH\Sztringek\obj\Debug\net9.0\ref\Sztringek.dll

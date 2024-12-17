@@ -1,0 +1,15 @@
+H:\Workspace\C-languages\ZH\Osztalyok\bin\Debug\net9.0\Osztalyok.exe
+H:\Workspace\C-languages\ZH\Osztalyok\bin\Debug\net9.0\Osztalyok.deps.json
+H:\Workspace\C-languages\ZH\Osztalyok\bin\Debug\net9.0\Osztalyok.runtimeconfig.json
+H:\Workspace\C-languages\ZH\Osztalyok\bin\Debug\net9.0\Osztalyok.dll
+H:\Workspace\C-languages\ZH\Osztalyok\bin\Debug\net9.0\Osztalyok.pdb
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.AssemblyInfoInputs.cache
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.AssemblyInfo.cs
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.csproj.CoreCompileInputs.cache
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.sourcelink.json
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.dll
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\refint\Osztalyok.dll
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.pdb
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\Osztalyok.genruntimeconfig.cache
+H:\Workspace\C-languages\ZH\Osztalyok\obj\Debug\net9.0\ref\Osztalyok.dll

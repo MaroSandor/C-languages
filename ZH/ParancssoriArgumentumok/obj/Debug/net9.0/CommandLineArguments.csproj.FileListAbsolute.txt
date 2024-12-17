@@ -1,0 +1,15 @@
+H:\Workspace\C-languages\ZH\CommandLineArguments\bin\Debug\net9.0\CommandLineArguments.exe
+H:\Workspace\C-languages\ZH\CommandLineArguments\bin\Debug\net9.0\CommandLineArguments.deps.json
+H:\Workspace\C-languages\ZH\CommandLineArguments\bin\Debug\net9.0\CommandLineArguments.runtimeconfig.json
+H:\Workspace\C-languages\ZH\CommandLineArguments\bin\Debug\net9.0\CommandLineArguments.dll
+H:\Workspace\C-languages\ZH\CommandLineArguments\bin\Debug\net9.0\CommandLineArguments.pdb
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.AssemblyInfoInputs.cache
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.AssemblyInfo.cs
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.csproj.CoreCompileInputs.cache
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.sourcelink.json
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.dll
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\refint\CommandLineArguments.dll
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.pdb
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\CommandLineArguments.genruntimeconfig.cache
+H:\Workspace\C-languages\ZH\CommandLineArguments\obj\Debug\net9.0\ref\CommandLineArguments.dll

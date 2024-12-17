@@ -1,0 +1,15 @@
+H:\Workspace\C-languages\ZH\Account\bin\Debug\net9.0\Account.exe
+H:\Workspace\C-languages\ZH\Account\bin\Debug\net9.0\Account.deps.json
+H:\Workspace\C-languages\ZH\Account\bin\Debug\net9.0\Account.runtimeconfig.json
+H:\Workspace\C-languages\ZH\Account\bin\Debug\net9.0\Account.dll
+H:\Workspace\C-languages\ZH\Account\bin\Debug\net9.0\Account.pdb
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.AssemblyInfoInputs.cache
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.AssemblyInfo.cs
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.csproj.CoreCompileInputs.cache
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.sourcelink.json
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.dll
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\refint\Account.dll
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.pdb
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\Account.genruntimeconfig.cache
+H:\Workspace\C-languages\ZH\Account\obj\Debug\net9.0\ref\Account.dll

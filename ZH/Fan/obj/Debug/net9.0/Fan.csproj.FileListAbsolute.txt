@@ -1,0 +1,15 @@
+H:\Workspace\C-languages\ZH\Fan\bin\Debug\net9.0\Fan.exe
+H:\Workspace\C-languages\ZH\Fan\bin\Debug\net9.0\Fan.deps.json
+H:\Workspace\C-languages\ZH\Fan\bin\Debug\net9.0\Fan.runtimeconfig.json
+H:\Workspace\C-languages\ZH\Fan\bin\Debug\net9.0\Fan.dll
+H:\Workspace\C-languages\ZH\Fan\bin\Debug\net9.0\Fan.pdb
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.AssemblyInfoInputs.cache
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.AssemblyInfo.cs
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.csproj.CoreCompileInputs.cache
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.sourcelink.json
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.dll
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\refint\Fan.dll
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.pdb
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\Fan.genruntimeconfig.cache
+H:\Workspace\C-languages\ZH\Fan\obj\Debug\net9.0\ref\Fan.dll

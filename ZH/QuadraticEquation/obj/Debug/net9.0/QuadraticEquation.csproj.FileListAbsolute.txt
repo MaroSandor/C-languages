@@ -1,0 +1,15 @@
+H:\Workspace\C-languages\ZH\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.exe
+H:\Workspace\C-languages\ZH\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.deps.json
+H:\Workspace\C-languages\ZH\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.runtimeconfig.json
+H:\Workspace\C-languages\ZH\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.dll
+H:\Workspace\C-languages\ZH\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.pdb
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfoInputs.cache
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfo.cs
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.sourcelink.json
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.dll
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\refint\QuadraticEquation.dll
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.pdb
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.genruntimeconfig.cache
+H:\Workspace\C-languages\ZH\QuadraticEquation\obj\Debug\net9.0\ref\QuadraticEquation.dll
