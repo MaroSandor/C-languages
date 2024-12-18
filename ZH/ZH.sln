@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fan", "Fan\Fan.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sztringek", "Sztringek\Sztringek.csproj", "{8AEC60DD-187E-4ABA-AF12-281502D67723}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VensegesVen", "VensegesVen\VensegesVen.csproj", "{284A7D62-1466-448D-87FB-06CAA4DF3071}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{8AEC60DD-187E-4ABA-AF12-281502D67723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AEC60DD-187E-4ABA-AF12-281502D67723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AEC60DD-187E-4ABA-AF12-281502D67723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284A7D62-1466-448D-87FB-06CAA4DF3071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284A7D62-1466-448D-87FB-06CAA4DF3071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284A7D62-1466-448D-87FB-06CAA4DF3071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284A7D62-1466-448D-87FB-06CAA4DF3071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

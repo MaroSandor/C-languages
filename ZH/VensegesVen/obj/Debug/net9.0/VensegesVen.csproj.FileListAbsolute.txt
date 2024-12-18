@@ -1,0 +1,15 @@
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/bin/Debug/net9.0/VensegesVen
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/bin/Debug/net9.0/VensegesVen.deps.json
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/bin/Debug/net9.0/VensegesVen.runtimeconfig.json
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/bin/Debug/net9.0/VensegesVen.dll
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/bin/Debug/net9.0/VensegesVen.pdb
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.GeneratedMSBuildEditorConfig.editorconfig
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.AssemblyInfoInputs.cache
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.AssemblyInfo.cs
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.csproj.CoreCompileInputs.cache
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.sourcelink.json
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.dll
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/refint/VensegesVen.dll
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.pdb
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/VensegesVen.genruntimeconfig.cache
+/home/marosandor/Workspace/C-languages/ZH/VensegesVen/obj/Debug/net9.0/ref/VensegesVen.dll

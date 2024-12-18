@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Workspace\\C-languages\\ZH\\Sztringek\\Sztringek.csproj": {}
+    "/home/marosandor/Workspace/C-languages/ZH/Sztringek/Sztringek.csproj": {}
   },
   "projects": {
-    "H:\\Workspace\\C-languages\\ZH\\Sztringek\\Sztringek.csproj": {
+    "/home/marosandor/Workspace/C-languages/ZH/Sztringek/Sztringek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Workspace\\C-languages\\ZH\\Sztringek\\Sztringek.csproj",
+        "projectUniqueName": "/home/marosandor/Workspace/C-languages/ZH/Sztringek/Sztringek.csproj",
         "projectName": "Sztringek",
-        "projectPath": "H:\\Workspace\\C-languages\\ZH\\Sztringek\\Sztringek.csproj",
-        "packagesPath": "C:\\Users\\maros\\.nuget\\packages\\",
-        "outputPath": "H:\\Workspace\\C-languages\\ZH\\Sztringek\\obj\\",
+        "projectPath": "/home/marosandor/Workspace/C-languages/ZH/Sztringek/Sztringek.csproj",
+        "packagesPath": "/home/marosandor/.nuget/packages/",
+        "outputPath": "/home/marosandor/Workspace/C-languages/ZH/Sztringek/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/marosandor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\maros\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/marosandor/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54f8d6a393d96c7213f974f40ad06b902529df69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71814c1ddca9f20a59f2c64e1339c59ce8a68d23")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

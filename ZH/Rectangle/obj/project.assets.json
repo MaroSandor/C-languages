@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\maros\\.nuget\\packages\\": {}
+    "/home/marosandor/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Workspace\\C-languages\\ZH\\Rectangle\\Rectangle.csproj",
+      "projectUniqueName": "/home/marosandor/Workspace/C-languages/ZH/Rectangle/Rectangle.csproj",
       "projectName": "Rectangle",
-      "projectPath": "H:\\Workspace\\C-languages\\ZH\\Rectangle\\Rectangle.csproj",
-      "packagesPath": "C:\\Users\\maros\\.nuget\\packages\\",
-      "outputPath": "H:\\Workspace\\C-languages\\ZH\\Rectangle\\obj\\",
+      "projectPath": "/home/marosandor/Workspace/C-languages/ZH/Rectangle/Rectangle.csproj",
+      "packagesPath": "/home/marosandor/.nuget/packages/",
+      "outputPath": "/home/marosandor/Workspace/C-languages/ZH/Rectangle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/marosandor/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\maros\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/marosandor/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
