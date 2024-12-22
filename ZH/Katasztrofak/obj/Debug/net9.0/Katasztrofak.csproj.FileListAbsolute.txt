@@ -1,0 +1,15 @@
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/bin/Debug/net9.0/Katasztrofak
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/bin/Debug/net9.0/Katasztrofak.deps.json
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/bin/Debug/net9.0/Katasztrofak.runtimeconfig.json
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/bin/Debug/net9.0/Katasztrofak.dll
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/bin/Debug/net9.0/Katasztrofak.pdb
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.GeneratedMSBuildEditorConfig.editorconfig
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.AssemblyInfoInputs.cache
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.AssemblyInfo.cs
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.csproj.CoreCompileInputs.cache
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.sourcelink.json
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.dll
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/refint/Katasztrofak.dll
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.pdb
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/Katasztrofak.genruntimeconfig.cache
+/home/marosandor/Workspace/C-languages/ZH/Katasztrofak/obj/Debug/net9.0/ref/Katasztrofak.dll

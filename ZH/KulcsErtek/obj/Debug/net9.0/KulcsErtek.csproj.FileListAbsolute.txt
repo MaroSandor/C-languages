@@ -1,0 +1,15 @@
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/bin/Debug/net9.0/KulcsErtek
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/bin/Debug/net9.0/KulcsErtek.deps.json
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/bin/Debug/net9.0/KulcsErtek.runtimeconfig.json
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/bin/Debug/net9.0/KulcsErtek.dll
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/bin/Debug/net9.0/KulcsErtek.pdb
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.GeneratedMSBuildEditorConfig.editorconfig
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.AssemblyInfoInputs.cache
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.AssemblyInfo.cs
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.csproj.CoreCompileInputs.cache
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.sourcelink.json
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.dll
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/refint/KulcsErtek.dll
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.pdb
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/KulcsErtek.genruntimeconfig.cache
+/home/marosandor/Workspace/C-languages/ZH/KulcsErtek/obj/Debug/net9.0/ref/KulcsErtek.dll

@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sztringek", "Sztringek\Sztr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VensegesVen", "VensegesVen\VensegesVen.csproj", "{284A7D62-1466-448D-87FB-06CAA4DF3071}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katasztrofak", "Katasztrofak\Katasztrofak.csproj", "{32C18583-031B-4DF3-9FD2-8E666B1A189C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KulcsErtek", "KulcsErtek\KulcsErtek.csproj", "{F50CDC28-06F9-4422-8281-2F57053A20F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{284A7D62-1466-448D-87FB-06CAA4DF3071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{284A7D62-1466-448D-87FB-06CAA4DF3071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{284A7D62-1466-448D-87FB-06CAA4DF3071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C18583-031B-4DF3-9FD2-8E666B1A189C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C18583-031B-4DF3-9FD2-8E666B1A189C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C18583-031B-4DF3-9FD2-8E666B1A189C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C18583-031B-4DF3-9FD2-8E666B1A189C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50CDC28-06F9-4422-8281-2F57053A20F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50CDC28-06F9-4422-8281-2F57053A20F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50CDC28-06F9-4422-8281-2F57053A20F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50CDC28-06F9-4422-8281-2F57053A20F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

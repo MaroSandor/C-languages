@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Katasztrofak/1.0.0": {
+        "runtime": {
+          "Katasztrofak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Katasztrofak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
